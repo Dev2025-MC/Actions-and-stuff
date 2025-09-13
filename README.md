@@ -7,7 +7,7 @@
 <h1>Who Created Actions And stuff?</h1>
 <p>oreville studios and mojang.the first version
 <img src="oreville.jpg">release in 24 december By oreville studios</p>
-<h1>how many version are in actions and stuff</h1>
+<h1>how many version are in actions and stuff?</h1>
 <p>There are 10 version!.and we collect all the version in the addon</p>
 <ul>
 <li>1.5.1</li>
