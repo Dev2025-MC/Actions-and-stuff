@@ -1,4 +1,4 @@
-<title>ACTIONS AND STUFF Get Free</title>
+
 <h1>ACTIONS AND STUFF</h1>
 <img src="logo.png">
 <p>Actions And Stuff is a premium Minecraft Bedrock resource pack that overhauls in-game animations, textures, and visuals to provide a more dynamic and fluid experience while staying true to the vanilla style. It includes player and mob animations, 3D items and armor, new sound effects, placeable props, and improved visual effects, offering cosmetic and decorative options that enhance gameplay.</p>
